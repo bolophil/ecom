@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.9d6feda5.css",
-    "main.js": "/ecommerce/static/js/main.9ee96169.js",
-    "static/js/787.34115356.chunk.js": "/ecommerce/static/js/787.34115356.chunk.js",
-    "static/media/background.png": "/ecommerce/static/media/background.aa63087944342c244290.png",
-    "static/media/about.png": "/ecommerce/static/media/about.21d670decc8e376cc288.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/ecommerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/contact.png": "/ecommerce/static/media/contact.60ed62e82e57e6e9ae75.png",
-    "index.html": "/ecommerce/index.html",
-    "main.9d6feda5.css.map": "/ecommerce/static/css/main.9d6feda5.css.map",
-    "main.9ee96169.js.map": "/ecommerce/static/js/main.9ee96169.js.map",
-    "787.34115356.chunk.js.map": "/ecommerce/static/js/787.34115356.chunk.js.map"
+    "main.css": "/ecom/static/css/main.5d37d272.css",
+    "main.js": "/ecom/static/js/main.934eb48b.js",
+    "static/js/787.34115356.chunk.js": "/ecom/static/js/787.34115356.chunk.js",
+    "static/media/background.png": "/ecom/static/media/background.aa63087944342c244290.png",
+    "static/media/about.png": "/ecom/static/media/about.21d670decc8e376cc288.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecom/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/ecom/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecom/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecom/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecom/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/contact.png": "/ecom/static/media/contact.60ed62e82e57e6e9ae75.png",
+    "index.html": "/ecom/index.html",
+    "main.5d37d272.css.map": "/ecom/static/css/main.5d37d272.css.map",
+    "main.934eb48b.js.map": "/ecom/static/js/main.934eb48b.js.map",
+    "787.34115356.chunk.js.map": "/ecom/static/js/787.34115356.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d6feda5.css",
-    "static/js/main.9ee96169.js"
+    "static/css/main.5d37d272.css",
+    "static/js/main.934eb48b.js"
   ]
 }
